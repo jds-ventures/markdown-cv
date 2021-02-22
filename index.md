@@ -1,91 +1,93 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jack Salvona's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jack Salvona
+Software Developer, Tech Enthusiast and lover of nature 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jack@salvona.uk">jack@salvona.uk</a>
+| <a href="https://github.com/jds-ventures">My Github profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Developer, Self Employed
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+PHP (Laravel, ReactPHP, Symphony), Javascript (Vue, React, Vue-Native)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+Astronomy, Blockchain & Crypto, Peer to Peer Networking
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019
+Individual of the Quarter, *Vodafone Ltd*, Edinburgh, UK
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020-2021`
+__Software Developer__, Self Employed
 
-- Warden
-- Minted coins
+- Carefully analyze clients needs and requirements to create an accurate and thorough design brief
+- Multi-task and change from one task to another whilst staying efficient
+- Have been able to reduce costs for clients and allow them to turn over a greater profit as well as having a more stable branded appearance of the web.
+- Possess up-to-date knowledge of technological developments in the industry
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019-2020`
+__Dev Ops,__, Dynasty Technologies Ltd
+
+- Ensuring that the technological resources meet the company's short and long-term needs
+- Multi-task and change from one task to another whilst staying efficient
+- Creating timelines for the development and deployment of all technological services
+- Deploying and designing Networks and systems on the AWS Platform
+- Successfully delivered the application to Vodafone stores with only 1 day of downtime in the entire year of operation 
+
+`2018-2019`
+__Sales Advisor,__, Fibonacci Communications Ltd (Vodafone UK Franchise)
+
+- Individual of the Quarter for Scotland North Q3 Vodafone Award (March 2019)
+- Behave respectfully and professionally to reinforce and elevate the business reputation and brand
+- Maintain in-depth product knowledge to provide customers with the best, most accurate information possible
+- Utilize persuasion techniques when necessary to close sales
+- Interact with customers to offer guidance, point out products, and assist them in making purchasing decisions
+
+`2016-2018`
+__Studio Operations Assistant,__, Out Of The Blueprint
+
+- Liaising with customers regarding their print and design requirements 
+- Photoshop and InDesign skills; how to use Photoshop and InDesign to design and develop ideas for print and the web 
+- Prepare work for display in an exhibition, preparing the composition of the display and mounting the work onto the walls
+- Diagnosing and fixing network related print errors
+- Assisting with the promotion and marketing of the Out of the Blueprint studio
+- Website Development and maintenance
+
+`2015-2016`
+__Studio Operations Trainee,__, Out Of The Blueprint
+
+- Learned the basics of Print and Design
+- Learned how to use a Risograph Printer, how to create and convert artwork for Riso Printing
+- Learned how to communicate with customers professionally
+- I gained confidence and experience in the workplace
+- Furthered my knowledge of web and software development
+
+## Education
+
+`August 2011 - June 2016`
+__Trinity Academy, Edinburgh__
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Febraury 2021 -->
 
 
