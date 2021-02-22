@@ -42,9 +42,9 @@ Individual of the Quarter, *Vodafone Ltd*, Edinburgh, UK
 `2020-2021`
 __Software Developer__, Self Employed
 
-- Carefully analyze clients needs and requirements to create an accurate and thorough design brief
+- Carefully analyse clients needs and requirements to create an accurate and thorough design brief
 - Multi-task and change from one task to another whilst staying efficient
-- Have been able to reduce costs for clients and allow them to streamline costs as well as having a more stable branded appearance of the web.
+- Have been able to reduce costs for clients and allow them to streamline costs as well as having a more stable branded appearance on the internet.
 - Possess up-to-date knowledge of technological developments in the industry
 
 `2019-2020`
