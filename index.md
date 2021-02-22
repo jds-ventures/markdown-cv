@@ -86,7 +86,7 @@ __Studio Operations Trainee__, Out Of The Blueprint
 
 ## Education
 
-`August 2011 - June 2016`
+`2011-2016`
 __Trinity Academy, Edinburgh__
 
 
