@@ -7,7 +7,7 @@ Software Developer & Tech Enthusiast
 
 <div id="webaddress">
 <a href="mailto:jack@salvona.uk">jack@salvona.uk</a>
-| <a href="https://github.com/jds-ventures">My Github profile</a>
+| <a href="https://github.com/jds-ventures">github.com/jds-ventures</a>
 </div>
 
 
