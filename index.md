@@ -3,7 +3,7 @@ layout: cv
 title: Jack Salvona's CV
 ---
 # Jack Salvona
-Software Developer, Tech Enthusiast and lover of nature 
+Software Developer & Tech Enthusiast
 
 <div id="webaddress">
 <a href="mailto:jack@salvona.uk">jack@salvona.uk</a>
