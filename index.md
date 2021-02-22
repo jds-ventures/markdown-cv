@@ -11,7 +11,8 @@ Software Developer, Tech Enthusiast and lover of nature
 </div>
 
 
-# About Me
+## About Me
+
 As a highly motivated and confident individual I believe that I would become an invaluable asset to the workplace. I have a long running interest in all things technological and a desire to have a career in this field. Since I was a teenager I have developed my skills in computing technologies and programming. From then on I have furthered my skills through online tutorials and various books so that I could create my own websites and applications as well as maintaining networked and physical systems. 
 
 As I am largely self-taught, I have a great desire to learn. I'm always looking to learn new skills in a more structured fashion, and to expand my knowledge whilst broadening my career prospects.
