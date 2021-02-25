@@ -39,7 +39,7 @@ Individual of the Quarter, *Vodafone Ltd*, Edinburgh, UK
 
 ## Occupation
 
-`2020-2021`
+`CURRENT`
 __Software Developer__, Self Employed
 
 - Carefully analyse clients needs and requirements to create an accurate and thorough design brief
