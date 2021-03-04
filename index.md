@@ -28,7 +28,7 @@ PHP (Laravel, ReactPHP, Symphony), Javascript (Vue, React, Vue-Native)
 
 ### Research interests
 
-Astronomy, Blockchain & Crypto, Peer to Peer Networking
+Blockchain, Peer to Peer Networking, Websockets
 
 
 ## Awards
